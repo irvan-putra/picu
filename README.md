@@ -1,6 +1,6 @@
 # Picu
 
-Python learning-roadmap generator using DashScope, with generated example lessons.
+Python learning-roadmap generator using Alibaba Qwen via its DashScope, with generated example lessons.
 
 ## Authorship
 
